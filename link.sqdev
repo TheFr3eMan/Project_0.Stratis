@@ -1,0 +1,8 @@
+profile = Jeroen;
+exportDirectory = C:\Users\Jeroen\Documents;
+autoExport = false;
+terrain = Stratis;
+
+
+@ignore "link.sqdev"
+@ignore ".project"
