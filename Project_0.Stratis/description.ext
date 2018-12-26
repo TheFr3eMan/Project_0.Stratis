@@ -66,7 +66,7 @@ class Params {
 };
 
 class CfgFunctions {
-	//#include "Functions\functionList.hpp"
+	#include "Dialogue\functions.hpp"
 	#include "JeroenArsenal\functions.hpp"
 };
 
