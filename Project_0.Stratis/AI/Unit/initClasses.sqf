@@ -2,6 +2,7 @@
 call compile preprocessFileLineNumbers "AI\Unit\AIUnit.sqf";
 call compile preprocessFileLineNumbers "AI\Unit\ActionUnitDismountCurrentVehicle.sqf";
 call compile preprocessFileLineNumbers "AI\Unit\ActionUnitGetInVehicle.sqf";
+call compile preprocessFileLineNumbers "AI\Unit\ActionUnitMoveToDanger.sqf";
 call compile preprocessFileLineNumbers "AI\Unit\ActionUnitSalute.sqf";
 call compile preprocessFileLineNumbers "AI\Unit\ActionUnitScareAway.sqf";
 call compile preprocessFileLineNumbers "AI\Unit\GoalUnitSalute.sqf";
